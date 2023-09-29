@@ -1,6 +1,6 @@
 # ClassCat&reg; Knowledge Manager (*Beta* version)
 
-* AnythingLLM をクラスキャット日本語化したバージョンです。
+* AnythingLLM をクラスキャットが日本語化したバージョンです。
 * 機能は AnythingLLM と同じですが、一部拡張したりカスタマイズしています。
 * 詳細はクラスキャットの [Web サイト](https://www.classcat.com) をご覧ください。(09/30/2023)
 
