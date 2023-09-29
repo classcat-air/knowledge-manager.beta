@@ -28,10 +28,6 @@ A full-stack application that enables you to turn any document, resource, or pie
 ![Chatting](/images/screenshots/chat.png)
 [view more screenshots](/images/screenshots/SCREENSHOTS.md)
 
-### Watch the demo!
-
-[![Watch the video](/images/youtube.png)](https://youtu.be/0vZ69AIP_hM)
-
 
 ### Product Overview
 AnythingLLM aims to be a full-stack application where you can use commercial off-the-shelf LLMs or popular open source LLMs and vectorDB solutions.
