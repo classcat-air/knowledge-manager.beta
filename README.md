@@ -4,7 +4,7 @@
 
 <p align="center">
     <b>AnythingLLM: A business-compliant document chatbot</b>. <br />
-    aA hyper-efficient and open-source enterprise-ready document chatbot solution for all.
+    A hyper-efficient and open-source enterprise-ready document chatbot solution for all.
 </p>
 
 <p align="center">
