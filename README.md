@@ -1,6 +1,6 @@
-# ClassCat&reg; Knowledge Manager (Beta)
+# ClassCat&reg; Knowledge Manager (*Beta* version)
 
-*AnythingLLM をクラスキャット日本語化したバージョンです。
+* AnythingLLM をクラスキャット日本語化したバージョンです。
 
 <p align="center">
   <a href="https://useanything.com"><img src="https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true" alt="AnythingLLM logo"></a>
